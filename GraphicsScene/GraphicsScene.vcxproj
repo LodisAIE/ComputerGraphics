@@ -163,6 +163,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Actor.cpp" />
+    <ClCompile Include="Mesh.cpp" />
     <ClCompile Include="Skeleton.cpp" />
     <ClCompile Include="Ball.cpp" />
     <ClCompile Include="Bone.cpp" />
@@ -172,6 +173,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Actor.h" />
+    <ClInclude Include="Mesh.h" />
     <ClInclude Include="Skeleton.h" />
     <ClInclude Include="Ball.h" />
     <ClInclude Include="Bone.h" />
